@@ -1,4 +1,18 @@
-body {background-color: #434455 
+.logo { font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:#4d5ae5;
+    text-decoration: none;
+ }
+
+ .logo-part-highlight { color:#2E2F42} #2
+
+
+body {background-color: #FFfFFF;
+    color:#434455; 
    font-family: "Roboto", sans-serif;
     }
 
@@ -9,9 +23,14 @@ ul,ol { list-style: none;}
 
 h2 { color: #2E2F42;}
 
-.contacts .link{ color:#434455}
+.contacts .link{ color:#434455;
+    font-style: normal; 
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;}
 
 .contacts .link:hover { color: #404BBF;}
+.contacts .link:focus{ color: #404BBF; }
 
 
 /* font-weight:товщину зображення
@@ -27,13 +46,18 @@ font-style: */
     .section-solutions h1 { color: #FFfFFF ;
         text-align: center;}
 
-    .studio-topic {text-decoration: none;
-        color: #2E2F42;}
-    .studio-topic:hover { color:#404BBF }
-    .studio-topic:active { color:#404BBF;
+    .nav-topic {text-decoration: none;
+        color: #2E2F42;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+    }
+    .nav-topic:hover { color:#404BBF }
+    .nav-topic:active { color:#404BBF;
     text-decoration: underline;}
+    .nav-topic:focus{ color:#404BBF }
 
-
+nav
 .nav-topic{ color: #2E2F42; text-decoration: none;}
 .nav-topic:hover {color:#404BBF; }
 .nav-topic:active { color:#404BBF;}
