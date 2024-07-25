@@ -44,12 +44,9 @@ font-style: */
 
 
 
-    .section-solutions { 
-        
-        background-color: #2E2F42;
-    }
-    .section-solutions h1 { color: #FFfFFF ;
-        text-align: center;}
+
+
+
 
     .nav-topic {text-decoration: none;
         color: #2E2F42;
@@ -62,10 +59,20 @@ font-style: */
     text-decoration: underline;}
     .nav-topic:focus{ color:#404BBF }
 
-nav
+
 .nav-topic{ color: #2E2F42; text-decoration: none;}
 .nav-topic:hover {color:#404BBF; }
 .nav-topic:active { color:#404BBF;}
+
+
+.first-section { 
+        
+    background-color: #2E2F42;
+}
+.first-section { color: #FFfFFF ;
+    text-align: center;}
+
+    .first-section .title { color:white;}
 
 
 
@@ -81,9 +88,18 @@ background-color:#4D5AE5
     border-color: #404BBF;
     color: #FFfFFF;
     cursor:pointer;
-            /*поместить кнопку по средине*/
+            
 }
-    
+.button-order-service:focus {
+    border-color: #404BBF;
+    color: #FFfFFF;
+    cursor:pointer;
+            
+}
+    /*поместить кнопку по средине*/
+
+
+
 .our-team { background-color:#F4F4FD ;}
 
         .footer { background-color: #2E2F42 ;
