@@ -1,0 +1,67 @@
+body {background-color: #FFfFFF;
+   font-family: "Roboto"
+    }
+
+    
+    
+    
+ul,ol { list-style: none;}
+
+h2 { color: #2E2F42;}
+
+.contacts .link{ color:#434455}
+
+.contacts .link:hover { color: #404BBF;}
+
+
+/* font-weight:товщину зображення
+font-style: */
+
+
+
+
+    .section-solutions { 
+        width: 1440px;
+        height: 600px;
+        background-color: #2E2F42;
+    }
+    .section-solutions h1 { color: #FFfFFF ;
+        text-align: center;}
+
+    .studio-topic {text-decoration: none;
+        color: #2E2F42;}
+    .studio-topic:hover { color:#404BBF }
+    .studio-topic:active { color:#404BBF;
+    text-decoration: underline;}
+
+
+.nav-topic{ color: #2E2F42; text-decoration: none;}
+.nav-topic:hover {color:#404BBF; }
+.nav-topic:active { color:#404BBF;}
+
+
+
+.button-order-service { border-color: #4D5AE5;
+color:#FFfFFF;
+font-size: medium;
+padding: 0%;
+width: 169px;
+height: 56px;
+background-color:#4D5AE5 
+}
+
+.button-order-service:hover {
+    border-color: #404BBF;
+    color: #FFfFFF;
+    cursor:pointer;
+            /*поместить кнопку по средине*/
+}
+    
+.our-team { background-color:#F4F4FD ;}
+
+        .footer { background-color: #2E2F42 ;
+            color:#FFfFFF;
+            width: 1440px;
+            height: 312px;
+} 
+
