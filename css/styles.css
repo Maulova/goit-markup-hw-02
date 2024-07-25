@@ -1,5 +1,5 @@
-body {background-color: #FFfFFF;
-   font-family: "Roboto"
+body {background-color: #434455 
+   font-family: "Roboto", sans-serif;
     }
 
     
@@ -21,8 +21,7 @@ font-style: */
 
 
     .section-solutions { 
-        width: 1440px;
-        height: 600px;
+        
         background-color: #2E2F42;
     }
     .section-solutions h1 { color: #FFfFFF ;
@@ -44,9 +43,8 @@ font-style: */
 .button-order-service { border-color: #4D5AE5;
 color:#FFfFFF;
 font-size: medium;
-padding: 0%;
-width: 169px;
-height: 56px;
+
+
 background-color:#4D5AE5 
 }
 
@@ -61,7 +59,6 @@ background-color:#4D5AE5
 
         .footer { background-color: #2E2F42 ;
             color:#FFfFFF;
-            width: 1440px;
-            height: 312px;
+            
 } 
 
