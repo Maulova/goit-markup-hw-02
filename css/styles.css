@@ -87,8 +87,8 @@ a { text-decoration: none; }
                             font-family: "Roboto", sans-serif 
                             }
 
-                            .button-order-service:hover ,
-                            .button-order-service:focus{ font-weight: 500;
+                            .button-order-service:hover 
+                         { font-weight: 500;
                                 font-size: 16px;
                                 
                                line-height: 24px; 
@@ -96,7 +96,10 @@ a { text-decoration: none; }
                                 letter-spacing: 0.04em;
                                 color: #fff; 
                                 background-color: #404bbf;
-                                cursor: pointer}
+                              
+                                cursor: pointer;}
+
+                                .button-order-service:focus {background-color: #404BBF ; }
 
                                 
 
@@ -109,18 +112,28 @@ a { text-decoration: none; }
                                line-height: 24px; 
                                 line-height: 1.2;
                                 letter-spacing: 0.02em;
-                                color: #2e2f42; }
+                                color: #2e2f42;
+                                background-color: #FFFFFF }
+
+                                .advantages-item { font-weight:500;
+                                    font-size: 20px;
+                                   line-height: 24px; 
+                                    line-height: 1.2;
+                                    letter-spacing: 0.02em;
+                                    color: #2e2f42;  }
+
 
                                 .advantages-text {font-weight: 400;
                                     font-size: 16px;
                                      line-height: 24px; 
                                     line-height: 1.5;
                                     letter-spacing: 0.02em;
-                                    color: #434455;  }
+                                    color: #434455; 
+                                    text-transform: capitalize }
 
                                     .team { background-color: #f4f4fd; 
                                         }
-                                        
+
                                     .team-titel {font-weight:700;
                                         font-size: 36px;
                                         
