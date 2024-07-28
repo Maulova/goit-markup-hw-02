@@ -84,7 +84,8 @@ a { text-decoration: none; }
                             letter-spacing: 0.04em;
                             color: #fff;
                             background: #4d5ae5; 
-                            font-family: "Roboto", sans-serif 
+                            font-family: "Roboto", sans-serif ;
+                            cursor: pointer ;
                             }
 
                             .button-order-service:hover 
@@ -97,7 +98,7 @@ a { text-decoration: none; }
                                 color: #fff; 
                                 background-color: #404bbf;
                               
-                                cursor: pointer;}
+                                }
 
                                 .button-order-service:focus {background-color: #404BBF ; }
 
@@ -107,7 +108,7 @@ a { text-decoration: none; }
 
                                .advantages { background: #fff; }
 
-                               .advantages-titel { font-weight:500;
+                               .advantages-subtitel { font-weight:500;
                                 font-size: 20px;
                                line-height: 24px; 
                                 line-height: 1.2;
