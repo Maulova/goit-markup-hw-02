@@ -132,6 +132,7 @@ a { text-decoration: none; }
                                     text-transform: capitalize }
 
                                     .team { background-color: #f4f4fd; 
+
                                         }
 
                                     .team-titel {font-weight:700;
@@ -152,7 +153,7 @@ a { text-decoration: none; }
                                                 text-align: center;
                                                 color: #434455; }
 
-                                               
+                                               .portfolio { background-color: #FFFFFF ;}
                                                 .portfolio-titel { 
                                                     
                                                     
