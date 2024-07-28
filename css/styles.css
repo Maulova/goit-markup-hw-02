@@ -136,6 +136,7 @@ a { text-decoration: none; }
 
                                         }
                                        .team-item  { background-color: #FFFFFF }
+                                       .team-list{ background-color: #FFFFFF  }
 
                                     .team-titel {font-weight:700;
                                         font-size: 36px;
@@ -146,6 +147,7 @@ a { text-decoration: none; }
                                         text-align: center;
                                         color: #2e2f42;
                                         text-transform: capitalize
+                                        
                                        }
                                         .team-subtitle { 
                                         
