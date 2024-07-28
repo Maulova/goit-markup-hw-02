@@ -135,18 +135,22 @@ a { text-decoration: none; }
                                     .team { background-color: #f4f4fd; 
 
                                         }
+                                       .team-item  { background-color: #FFFFFF }
 
                                     .team-titel {font-weight:700;
                                         font-size: 36px;
-                                        
+                                       
                                          line-height: 40px; 
                                         line-height: 1.11;
                                         letter-spacing: 0.02em;
                                         text-align: center;
                                         color: #2e2f42;
-                                        text-transform: capitalize}
+                                        text-transform: capitalize
+                                       }
                                         .team-subtitle { 
-                                            background-color: #FFFFFF ;font: 500 20px / 1.2 "Roboto", sans-serif;
+                                        
+                                            background-color: #FFFFFF ;
+                                            font: 500 20px / 1.2 "Roboto", sans-serif;
                                             letter-spacing: 0.02em;
                                             text-align: center;
                                             color: #2e2f42;}
