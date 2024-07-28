@@ -145,7 +145,8 @@ a { text-decoration: none; }
                                         text-align: center;
                                         color: #2e2f42;
                                         text-transform: capitalize}
-                                        .team-subtitle { font: 500 20px / 1.2 "Roboto", sans-serif;
+                                        .team-subtitle { 
+                                            background-color: #FFFFFF ;font: 500 20px / 1.2 "Roboto", sans-serif;
                                             letter-spacing: 0.02em;
                                             text-align: center;
                                             color: #2e2f42;}
